@@ -24,7 +24,7 @@ namespace TheAwesomeService.Controllers
             if (customerId == 0)
                 return StatusCode((int)HttpStatusCode.BadRequest, "Customer does not exist.");
 
-            return await pricingService.GetPriceForCustomer(customerId, start, end);
+            return Ok(pricingService.GetPriceForCustomer(customerId, start, end));
         }
     }
 }

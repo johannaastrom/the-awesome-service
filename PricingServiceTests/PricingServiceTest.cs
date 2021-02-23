@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using TheAwesomeService.Data;
 using TheAwesomeService.Services;
 
-namespace TheAwesomeServiceTests
+namespace PricingServiceTests
 {
     public class PricingServiceTest
     {

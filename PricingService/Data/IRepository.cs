@@ -1,4 +1,4 @@
-﻿using TheAwesomeService.Models;
+using TheAwesomeService.Models;
 using System.Threading.Tasks;
 
 namespace TheAwesomeService.Data

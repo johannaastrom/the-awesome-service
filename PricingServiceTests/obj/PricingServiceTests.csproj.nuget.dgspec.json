@@ -31,8 +31,13 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj": {
                 "projectPath": "C:\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj"
+=======
+              "C:\\Projects\\PricingService\\PricingService\\PricingService.csproj": {
+                "projectPath": "C:\\Projects\\PricingService\\PricingService\\PricingService.csproj"
+>>>>>>> 82c0e54abd51d5f2287ed10c10232819f7fe9b0e
               }
             }
           }
@@ -98,12 +103,21 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj": {
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj",
         "projectName": "TheAwesomeService",
         "projectPath": "C:\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj",
+=======
+    "C:\\Projects\\PricingService\\PricingService\\PricingService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\PricingService\\PricingService\\PricingService.csproj",
+        "projectName": "PricingService",
+        "projectPath": "C:\\Projects\\PricingService\\PricingService\\PricingService.csproj",
+>>>>>>> 82c0e54abd51d5f2287ed10c10232819f7fe9b0e
         "packagesPath": "C:\\Users\\40114272\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\PricingService\\PricingService\\obj\\",
         "projectStyle": "PackageReference",

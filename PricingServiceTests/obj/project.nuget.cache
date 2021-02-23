@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKod+Iu6XycCaEadkTXomrPtzncsSQaDArZuwVXALkHrepi6Dk4OjPSXoIgyyRUlOx5D4S1/Jce8tueeIar1Lg==",
+  "dgSpecHash": "pY9fig1R3O69JuI4Fe/wrvBafdnhMX+b4FzE6iIzBl7zCw/VRGJNRzXK5SOPu2J+kQvhffoFYCJcnSCPMGnbMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj",
+  "projectFilePath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\40114272\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\40114272\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",

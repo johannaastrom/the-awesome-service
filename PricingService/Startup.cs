@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.EntityFrameworkCore;
 using TheAwesomeService.Data;
 using TheAwesomeService.Services;
 
@@ -22,9 +21,8 @@ namespace TheAwesomeService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-
             services.AddScoped<IRepository, Repository>();
-            services.AddScoped<IPricingService, PricingService>();
+            services.AddScoped<IPricingService, Services.PricingService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -34,7 +32,6 @@ namespace TheAwesomeService
             {
                 app.UseDeveloperExceptionPage();
             }
-
             app.UseHttpsRedirection();
 
             app.UseRouting();

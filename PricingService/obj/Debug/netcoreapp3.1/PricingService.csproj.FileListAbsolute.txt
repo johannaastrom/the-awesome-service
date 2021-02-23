@@ -41,6 +41,10 @@ C:\Projects\PricingService\PricingService\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Projects\PricingService\PricingService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Projects\PricingService\PricingService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Projects\PricingService\PricingService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+<<<<<<< HEAD
+=======
+C:\Projects\PricingService\PricingService\obj\Debug\netcoreapp3.1\PricingService.csprojAssemblyReference.cache
+>>>>>>> 82c0e54abd51d5f2287ed10c10232819f7fe9b0e
 C:\Projects\PricingService\PricingService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Projects\PricingService\PricingService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Projects\PricingService\PricingService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll

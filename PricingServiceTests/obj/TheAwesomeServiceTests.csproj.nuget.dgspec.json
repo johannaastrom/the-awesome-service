@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj": {}
+    "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj": {
+    "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj",
+        "projectUniqueName": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj",
         "projectName": "TheAwesomeServiceTests",
-        "projectPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj",
+        "projectPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingServiceTests\\TheAwesomeServiceTests.csproj",
         "packagesPath": "C:\\Users\\40114272\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingServiceTests\\obj\\",
+        "outputPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingServiceTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingService\\TheAwesomeService.csproj": {
-                "projectPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingService\\TheAwesomeService.csproj"
+              "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj": {
+                "projectPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingService\\TheAwesomeService.csproj": {
+    "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingService\\TheAwesomeService.csproj",
+        "projectUniqueName": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj",
         "projectName": "TheAwesomeService",
-        "projectPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingService\\TheAwesomeService.csproj",
+        "projectPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj",
         "packagesPath": "C:\\Users\\40114272\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingService\\obj\\",
+        "outputPath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

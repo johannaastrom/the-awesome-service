@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "U3YAvvZaTf124gFb/3V5iGN/DEEUB5tNvhVhCKn9NbVswSH0+HFRU0Kx0zb9XQkcQ2slGk8ehQsMVtyTeBmCLQ==",
+  "dgSpecHash": "/mmsVeQZQ7Yf7qTmXkvfAXbwuKf5aKM8UhP7Eh15THqMe9MJwRX1UQyycERFkn9b4FythQ7iVBelHwnLyp6mog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Johanna 30 år\\PricingService\\PricingService\\TheAwesomeService.csproj",
+  "projectFilePath": "C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\TheAwesomeService.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\40114272\\OneDrive - Sigma AB\\Projects\\PricingService\\PricingService\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
